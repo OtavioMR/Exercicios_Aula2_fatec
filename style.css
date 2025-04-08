@@ -1,0 +1,25 @@
+.concluida{
+    text-decoration: line-through;
+    color: gray;
+}
+
+li{
+    cursor: pointer;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#criar_tarefa{
+    border-radius: 5px;
+    border-color: #ccc;
+    padding: 2%;
+}
+
+button {
+    border-radius: 5px;
+    border-color: #ccc;
+    padding: 2%;
+}
